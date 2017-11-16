@@ -1,5 +1,5 @@
 # AdColony Cordova Demo App
-###Demo App that shows AdColony ads within an Apache Cordova App.
+## Demo App that shows AdColony ads within an Apache Cordova App.
 
 Displays AdColony Ads within a Cordova App, controlled by JavaScript on both iOS and Android platforms. Requires the AdColony SDK.
 
@@ -57,7 +57,7 @@ iOS ZONE_ID=vzf8e4e97704c4445c87504e
 See the  [cordova-plugin-adcolony](https://github.com/ferdil/AdColonyCordovaDemo) repository on GitHub
 
 
-####If you have saved some time using my work, do consider donating me something :-)
+##If you have saved some time using my work, do consider donating me something :-)
 
 [Donations through PayPal gratefully accepted![paypal.me](https://www.paypalobjects.com/webstatic/paypalme/images/social/pplogo120_4_3.png)](https://www.paypal.me/LADEIRA137)
 
