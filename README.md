@@ -57,6 +57,9 @@ iOS ZONE_ID=vzf8e4e97704c4445c87504e
 See the  [cordova-plugin-adcolony](https://github.com/ferdil/AdColonyCordovaDemo) repository on GitHub
 
 
-## If you have saved some time using my work, do consider donating me something :-)
+## Thank you
+
+If you have saved some time using my work,  
+do consider donating me something :-)
 
 [Donations through PayPal gratefully accepted![paypal.me](https://www.paypalobjects.com/webstatic/paypalme/images/social/pplogo120_4_3.png)](https://www.paypal.me/LADEIRA137)
