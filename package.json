@@ -1,0 +1,40 @@
+{
+  "name": "adcolonydemoapp",
+  "version": "1.0.0",
+  "description": "Demo Apache Cordova App using AdColony Plugin",
+  "author": "ferdi ladeira",
+  "license": "Apache-2.0",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "adcolony",
+    "ads",
+    "video",
+    "ad",
+    "plugin",
+    "ios",
+    "android",
+    "monetisation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferdil/AdColonyCordovaDemo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ferdil/AdColonyCordovaDemo/issues"
+  },
+  "homepage": "https://github.com/ferdil/AdColonyCordovaDemo#readme",
+  "cordova": {
+    "id": "AdColonyDemoApp",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "dependencies": {
+    "plugin": "ferdil/cordova-plugin-adcolony.git",
+    "adcolony-android-sdk": "AdColony/AdColony-Android-SDK-3",
+    "adcolony-ios-sdk": "AdColony/AdColony-iOS-SDK-3"
+  }
+}
