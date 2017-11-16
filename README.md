@@ -42,7 +42,28 @@ Replace the generated www folder with the one from this
 $ cp -R <src folder>/www/ AdColony
 ```
 
- 
+You're then ready to build and run the App
+```
+$ cordova build android
+```
+
+NB. For iOS, you need to add the [AdColony cocoapod](https://cocoapods.org/pods/AdColony)
+```
+$ cd platforms/ios
+$ pod init
+```
+
+Then edit the Podfile to add the AdColony pod dependency (add the line 
+
+```
+pod AdColony
+```
+and install it by running:
+```
+$ pod install
+$ cordova build ios --emulator
+```
+
 The demo uses the following AdColony demo APP\_ID and ZONE_ID:
 
 ```
