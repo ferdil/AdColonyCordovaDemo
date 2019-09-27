@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "plugin": "ferdil/cordova-plugin-adcolony.git",
-    "adcolony-android-sdk": "AdColony/AdColony-Android-SDK-3",
-    "adcolony-ios-sdk": "AdColony/AdColony-iOS-SDK-3"
+    "adcolony-android-sdk": "AdColony/AdColony-Android-SDK",
+    "adcolony-ios-sdk": "AdColony/AdColony-iOS-SDK"
   }
 }
